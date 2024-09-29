@@ -34,7 +34,7 @@ export default async function Home () {
               href={`/posts/${post.slug}`}
               className='text-primary hover:underline'
             >
-              Lire l'article
+              Lire l&apos;article
             </Link>
           </CardFooter>
         </Card>
